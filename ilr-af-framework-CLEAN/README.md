@@ -85,12 +85,12 @@ TIMA protocol are provided in `data/synthetic/` and are non-identifiable by cons
 
 If you use this code, please cite the paper and this repository.
 
-```
+10.5281/zenodo.21339045
 Parise G, Ceravolo R, Lucà F, De Asmundis C, La Meir M, Gulizia M, Parise O, Gelsomino S.
 A deep-learning framework for learning candidate pre-arrhythmic physiological signatures
 from continuous ILR monitoring. European Heart Journal – Digital Health (under review).
 
-Software archive: Zenodo. DOI: <ADD ZENODO DOI HERE>
+Software archive: 10.5281/zenodo.21339045
 ```
 
 ## License
