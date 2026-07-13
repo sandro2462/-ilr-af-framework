@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software archive."
+title: "A deep-learning framework for learning candidate pre-arrhythmic physiological signatures from continuous ILR monitoring"
+authors:
+  - family-names: Parise
+    given-names: Gianmarco
+  - family-names: Ceravolo
+    given-names: Roberto
+  - family-names: Lucà
+    given-names: Fabiana
+  - family-names: De Asmundis
+    given-names: Carlo
+  - family-names: La Meir
+    given-names: Mark
+  - family-names: Gulizia
+    given-names: Michele
+  - family-names: Parise
+    given-names: Orlando
+  - family-names: Gelsomino
+    given-names: Sandro
+    orcid: "https://orcid.org/0000-0002-7746-989X"
+version: "1.0.0"
+date-released: "2026-07-13"
+license: MIT
+doi: "ADD-ZENODO-DOI-HERE"
+repository-code: "https://github.com/<ORG>/<REPO>"
